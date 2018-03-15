@@ -1,0 +1,10 @@
+résumé du projet activité Git & GitHub
+
+J'ai commencé par la creation du repos
+Ensuite j'ai modifier le fichier README.md en ajoutant une descripion du projt
+L'étape suivant était de créer un petit bout de code en HTML contenant seulement le titre de la page crée
+J'ai modifier le fichier HTML en ajoutant une titre avec la balise <h1> et une paragraphe balise <p>
+Ensuite j'ai crée un ficher text résumé 
+pour enfine le modifier en ajoutant l'explication de ce que j'ai fait
+
+Merci pour votre collaboration
